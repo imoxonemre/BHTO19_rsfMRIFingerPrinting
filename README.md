@@ -20,3 +20,5 @@ To do:
 - 
 
 
+Ideas:
+- Fingerprinting on control subjects vs SCZ -- do psychiatric conditions affect how well we can fingerprint
