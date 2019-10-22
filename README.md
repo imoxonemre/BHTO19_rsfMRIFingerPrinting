@@ -1,5 +1,57 @@
 # BHTO19_StarterProject
-(name to be changed?)
+
+This repo is a special offering for BHTO2019 newbies. 
+
+It is designed to be relatively self-contained, self-explanatory, and catering to all ability levels. 
+
+
+## Using this repo
+
+Here are the things you will need to do to get going with contributions on this project.  
+
+More details on each step are listed below. 
+
+
+1. If you don't have one, get a github account. 
+
+2. Fork this repo
+
+3. Clone your fork
+
+4. Choose a task to work on from the issues list  
+
+5. Hack!  
+
+6. Contribute your wonderful contributions back to this repo
+
+7. Return to 4. 
+
+
+## In more detail
+
+### Fork the repo
+
+### Clone your fork 
+
+### Choose a task
+
+### Hack
+
+### Contribute back
+
+
+
+
+
+
+
+
+
+
+---
+---
+
+***Project Organizer Notes***
 
 Plan for this project: 
 
@@ -17,7 +69,6 @@ To do:
 - build out issues list with lots of handholding
 - replace this list with a readme for people
 - change the name?
-- 
 
 
 Ideas:
