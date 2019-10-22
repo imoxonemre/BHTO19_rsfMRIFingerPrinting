@@ -27,6 +27,16 @@ More details on each step are listed below.
 7. Return to 4. 
 
 
+
+***Your first task will be to add your name to the contributors list***
+
+Recommendation: repeat with a few small, unambitious changes (e.g. to documentation files) to get the hang of the contributor workflow. 
+
+
+
+
+
+
 ## In more detail
 
 ### Fork the repo
@@ -35,21 +45,24 @@ More details on each step are listed below.
 - Navigate to this page
 - Click the `fork` button (top right of this page)
 
-
-### Make a local clone of your fork 
+### Make a local clone of your fork
 
 #### Install git on your local machine
 
 #### Tell github about your local machine
 
-Generate ssh keys: 
+*Generate an ssh key for your machine*
  
 On the git command line type 
 
 
 ```bash
 ssh-keygen
+```
 
+*Tell github the publich half of your generated ssh key*
+
+```bash
 cat ~/.ssh/id_rsa.pub
 ```
 
@@ -63,23 +76,87 @@ In the browser:
 - ...create new ssh key; paste in the locally generated public key
 
 
+#### Clone your fork
+
+```bash   
+git clone git@github.com:yourgithubusername/BHTO19_StarterProject  
+```
+
+(Note: this command is different the one you use for repos you don't intend to push changes to, which is just `git clone <repourl>`)
+
+
+Tell your local clone where the upstream master repo is
+
+```bash
+cd BHTO19_StarterProject  
+git remote add upstream https://github.com/JohnGriffiths/BHTO19_StarterProject
+```
+
+To pull updates (you will need to do this regularly)
+
+```
+git fetch upstream
+git merge upstream/master
+```
+
+
+### Choose a task
+
+Look at the issues list in the master repo. 
+
+Choose a task you find interesting and you think you can do. 
+
+Questions + discussions can be done on the thread
+
+
+### Hack
+
+#### Create a new branch
+
+First: create a new branch from the `master` branch. This is where you will make your changes. When you are ready to contribute your updates back to the master repo, you will submit a pull request for the entire branch. 
+
+```bash
+cd BHTO19_StarterProject  
+git checkout -b newbranchname
+```
+
+Check what branch you're on and the status of the branches in your local repo clone:
+
+```bash
+git branch -a -l
+```
+
+#### Make your changes
+
+
+#### Record your changes
+
+```bash
+git add changedfile
+git commit changedfile -m"description of change"
+git push origin newbranchname
+```
+
+Check your local github fork in the browser. 
 
 
 
+#### Check for updates
+
+```bash
+git fetch upstream
+git merge upstream/master
 ```
 
 
 
 
 
-### Choose a task
-
-### Hack
-
 ### Contribute back
 
+Once your new contribution is finished and you are ready to have it merged into master: 
 
-
+#### Submit a pull request
 
 
 
