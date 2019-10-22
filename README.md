@@ -16,7 +16,7 @@ More details on each step are listed below.
 
 2. Fork this repo
 
-3. Clone your fork
+3. Make a local clone your fork
 
 4. Choose a task to work on from the issues list  
 
@@ -31,7 +31,46 @@ More details on each step are listed below.
 
 ### Fork the repo
 
-### Clone your fork 
+- Sign in to github
+- Navigate to this page
+- Click the `fork` button (top right of this page)
+
+
+### Make a local clone of your fork 
+
+#### Install git on your local machine
+
+#### Tell github about your local machine
+
+Generate ssh keys: 
+ 
+On the git command line type 
+
+
+```bash
+ssh-keygen
+
+cat ~/.ssh/id_rsa.pub
+```
+
+Select + copy the public ssh key
+
+In the browser: 
+
+- Go to github
+- ...your github settings (not the repo settings)
+- ...ssh and gpg keys
+- ...create new ssh key; paste in the locally generated public key
+
+
+
+
+
+```
+
+
+
+
 
 ### Choose a task
 
