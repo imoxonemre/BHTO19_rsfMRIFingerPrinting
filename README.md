@@ -173,7 +173,7 @@ Plan for this project:
 
 Basically, we will list a number of new tasks based off the things done in the edu course, which will use 
 
-[this repo](https://github.com/josephmje/scwg2018_python_neuroimaging/blob/master/bin/07_functional-connectivity-analysis_solutions.ipynb)
+[this repo](https://github.com/jerdra/SDC-BIDS-fMRI.git)
 
 so check out the repo contents and start listing ideas as issues
 
