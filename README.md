@@ -1,4 +1,4 @@
-# BHTO19 rsFMRIFingerPrinting
+# BHTO19 rsfMRIFingerPrinting
 
 This repo is a special offering for BHTO2019 newbies. 
 
