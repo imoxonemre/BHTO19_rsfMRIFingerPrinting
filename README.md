@@ -41,6 +41,11 @@ For more info on github usage, [read these instructions](https://github.com/John
 
 An overview of the project goals and background is given in the [basic_fingerprinting.ipynb](https://github.com/JohnGriffiths/BHTO19_rsfMRIFingerPrinting/blob/master/basic_fingerprinting_analysis/basic_fingerprinting.ipynb) notebook in the `basic_fingerprinting_analysis` folder of this repo. 
 
-The to-do items from that notebook have been laid out in the [issues page](https://github.com/JohnGriffiths/BHTO19_rsfMRIFingerPrinting/issues) for this folder. Use this also as a a Q & A + discussion forum for the project(s). 
+The to-do items from that notebook have been laid out in the [issues page](https://github.com/JohnGriffiths/BHTO19_rsfMRIFingerPrinting/issues) for this folder. Use this also as a Q & A + discussion forum for the project(s). 
+
+
+## fMRI FC Gradients Variability Projects
+
+For more advanced hacktivities, you can also check out our other [https://github.com/JohnGriffiths/BHTO19_GradientsVariability](other brainhack project) on individual variability in fMRI functional connectivity 'gradients'. 
 
 
