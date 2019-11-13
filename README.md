@@ -27,13 +27,12 @@ More details on each step are listed below.
 7. Return to 4. 
 
 
-
 ***Your first task will be to add your name to the contributors list***
 
 Recommendation: repeat with a few small, unambitious changes (e.g. to documentation files) to get the hang of the contributor workflow. 
 
 
-
+For more info on github usage, [read these instructions](https://github.com/JohnGriffiths/BHTO19_rsfMRIFingerPrinting/blob/master/github_usage.md)
 
 
 
@@ -159,35 +158,3 @@ Once your new contribution is finished and you are ready to have it merged into 
 #### Submit a pull request
 
 
-
-
-
-
-
----
----
-
-***Project Organizer Notes***
-
-Plan for this project: 
-
-Basically, we will list a number of new tasks based off the things done in the edu course, which will use 
-
-[this repo](https://github.com/jerdra/SDC-BIDS-fMRI.git)
-
-so check out the repo contents and start listing ideas as issues
-
-
-To do: 
-
-- get+add the link(s) for the educational project(s) repo(s)
-- make decisions re: data availability+access, if important
-- build out issues list with lots of handholding
-- replace this list with a readme for people
-- change the name?
-
-
-Ideas:
-- Fingerprinting on control subjects vs SCZ -- do psychiatric conditions affect how well we can fingerprint
-
-----
