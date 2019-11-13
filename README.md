@@ -1,4 +1,4 @@
-# BHTO19_StarterProject
+# BHTO19 rsFMRIFingerPrinting
 
 This repo is a special offering for BHTO2019 newbies. 
 
