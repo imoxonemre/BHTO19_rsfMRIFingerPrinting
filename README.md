@@ -173,7 +173,7 @@ Plan for this project:
 
 Basically, we will list a number of new tasks based off the things done in the edu course, which will use 
 
-[this repo](https://github.com/josephmje/scwg2018_python_neuroimaging/blob/master/bin/07_functional-connectivity-analysis_solutions.ipynb)
+[this repo](https://github.com/jerdra/SDC-BIDS-fMRI.git)
 
 so check out the repo contents and start listing ideas as issues
 
@@ -190,28 +190,4 @@ To do:
 Ideas:
 - Fingerprinting on control subjects vs SCZ -- do psychiatric conditions affect how well we can fingerprint
 
-
-
-
 ----
-
-
-
-John-Jer brainstorm 24/10/2019:
-
-
-
-
-- general structure: a) get data, b) analyze data; both can be replaced with different datasets and different analysis approaches  
-- two datasets to start with: a) midnight scan club (MSC), b) HCP. MSC is good for intra-subject variability; HCP for inter-subject  
-- TO DO = have a small number of notebooks in the scratch folder that do example analyses. The job of attendees is to grab bits from them and try new things.   
-- put some notes in playing around with clustering and diffusion map embedding  
-- surface plotting with nilearn  
-
-
-
-
-
-
-
-
